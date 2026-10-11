@@ -6,7 +6,7 @@ def hien_thi_menu():
     print("2. Thêm sinh viên")
     print("3. Xóa sinh viên")
     print("4. Thoát")
-
+    print("---------------------------")
 
 def xem_danh_sach(danh_sach):
     print("\n--- DANH SÁCH SINH VIÊN ---")
